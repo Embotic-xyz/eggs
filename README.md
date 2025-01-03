@@ -19,7 +19,7 @@
 * [Rethink DB](https://github.com/Embotic-xyz/Eggs/blob/main/Databases/egg-rethink-d-b.json)
 
 [Game Servers](https://github.com/Embotic-xyz/Eggs/tree/main/Game%20Servers)
-* [America Truck Simulator](https://github.com/Embotic-xyz/Eggs/blob/main/Game%20Servers/egg-american-truck-simulator.json)
+* [American Truck Simulator](https://github.com/Embotic-xyz/Eggs/blob/main/Game%20Servers/egg-american-truck-simulator.json)
 * [ARK Survival Evolved](https://github.com/Embotic-xyz/Eggs/blob/main/Game%20Servers/egg-ark--survival-evolved.json)
 * [BeamMP](https://github.com/Embotic-xyz/Eggs/blob/main/Game%20Servers/egg-beam-m-p-servers.json)
 * [Euro Truck Simulator 2](https://github.com/Embotic-xyz/Eggs/blob/main/Game%20Servers/egg-euro-truck-simulator2.json)
