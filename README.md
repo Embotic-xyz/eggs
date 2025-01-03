@@ -51,7 +51,7 @@
 * [Custom Source Engine Game](https://github.com/Embotic-xyz/Eggs/blob/main/Source%20Engine/egg-custom-source-engine-game.json)
 * [Garry's Mod](https://github.com/Embotic-xyz/Eggs/blob/main/Source%20Engine/egg-garrys-mod.json)
 * [Insurgency](https://github.com/Embotic-xyz/Eggs/blob/main/Source%20Engine/egg-insurgency.json)
-* [Team Fortress2](https://github.com/Embotic-xyz/Eggs/blob/main/Source%20Engine/egg-team-fortress2.json)
+* [Team Fortress 2](https://github.com/Embotic-xyz/Eggs/blob/main/Source%20Engine/egg-team-fortress2.json)
 
 [Voice Servers](https://github.com/Embotic-xyz/Eggs/tree/main/Voice%20Servers)
 * [Mumble Server](https://github.com/Embotic-xyz/Eggs/blob/main/Voice%20Servers/egg-mumble-server.json)
