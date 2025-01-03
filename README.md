@@ -21,7 +21,7 @@
 [Game Servers](https://github.com/Embotic-xyz/Eggs/tree/main/Game%20Servers)
 * [America Truck Simulator](https://github.com/Embotic-xyz/Eggs/blob/main/Game%20Servers/egg-american-truck-simulator.json)
 * [BeamMP](https://github.com/Embotic-xyz/Eggs/blob/main/Game%20Servers/egg-beam-m-p-servers.json)
-* [Euro Tuck Simulator 2](https://github.com/Embotic-xyz/Eggs/blob/main/Game%20Servers/egg-euro-truck-simulator2.json)
+* [Euro Truck Simulator 2](https://github.com/Embotic-xyz/Eggs/blob/main/Game%20Servers/egg-euro-truck-simulator2.json)
 * [FiveM](https://github.com/Embotic-xyz/Eggs/blob/main/Game%20Servers/egg-five-m.json)
 * [Mindustry](https://github.com/Embotic-xyz/Eggs/blob/main/Game%20Servers/egg-mindustry.json)
 * [RedM](https://github.com/Embotic-xyz/Eggs/blob/main/Game%20Servers/egg-red-m.json)
