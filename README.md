@@ -19,9 +19,10 @@
 * [Rethink DB](https://github.com/Embotic-xyz/Eggs/blob/main/Databases/egg-rethink-d-b.json)
 
 [Game Servers](https://github.com/Embotic-xyz/Eggs/tree/main/Game%20Servers)
-* [America Truck Simulator](https://github.com/Embotic-xyz/Eggs/blob/main/Game%20Servers/egg-american-truck-simulator.json)
+* [American Truck Simulator](https://github.com/Embotic-xyz/Eggs/blob/main/Game%20Servers/egg-american-truck-simulator.json)
+* [ARK Survival Evolved](https://github.com/Embotic-xyz/Eggs/blob/main/Game%20Servers/egg-ark--survival-evolved.json)
 * [BeamMP](https://github.com/Embotic-xyz/Eggs/blob/main/Game%20Servers/egg-beam-m-p-servers.json)
-* [Euro Tuck Simulator 2](https://github.com/Embotic-xyz/Eggs/blob/main/Game%20Servers/egg-euro-truck-simulator2.json)
+* [Euro Truck Simulator 2](https://github.com/Embotic-xyz/Eggs/blob/main/Game%20Servers/egg-euro-truck-simulator2.json)
 * [FiveM](https://github.com/Embotic-xyz/Eggs/blob/main/Game%20Servers/egg-five-m.json)
 * [Mindustry](https://github.com/Embotic-xyz/Eggs/blob/main/Game%20Servers/egg-mindustry.json)
 * [RedM](https://github.com/Embotic-xyz/Eggs/blob/main/Game%20Servers/egg-red-m.json)
@@ -46,12 +47,11 @@
 * [Uptime Kuma](https://github.com/Embotic-xyz/Eggs/blob/main/Software/egg-uptime-kuma.json)
 
 [Source Engines](https://github.com/Embotic-xyz/Eggs/tree/main/Source%20Engine)
-* [Ark Survival](https://github.com/Embotic-xyz/Eggs/blob/main/Source%20Engine/egg-ark--survival-evolved.json)
 * [CS2](https://github.com/Embotic-xyz/Eggs/blob/main/Source%20Engine/egg-counter--strike--global-offensive.json)
 * [Custom Source Engine Game](https://github.com/Embotic-xyz/Eggs/blob/main/Source%20Engine/egg-custom-source-engine-game.json)
 * [Garry's Mod](https://github.com/Embotic-xyz/Eggs/blob/main/Source%20Engine/egg-garrys-mod.json)
 * [Insurgency](https://github.com/Embotic-xyz/Eggs/blob/main/Source%20Engine/egg-insurgency.json)
-* [Team Fortress2](https://github.com/Embotic-xyz/Eggs/blob/main/Source%20Engine/egg-team-fortress2.json)
+* [Team Fortress 2](https://github.com/Embotic-xyz/Eggs/blob/main/Source%20Engine/egg-team-fortress2.json)
 
 [Voice Servers](https://github.com/Embotic-xyz/Eggs/tree/main/Voice%20Servers)
 * [Mumble Server](https://github.com/Embotic-xyz/Eggs/blob/main/Voice%20Servers/egg-mumble-server.json)
